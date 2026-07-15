@@ -18,3 +18,4 @@
 
 준비된 초기 커밋 번들: `msbuild-factory.bundle`  
 내용: README, `.gitignore`, 개정 설계서 (`docs/...`)
+probe 2026-07-15T07:56:22+00:00
